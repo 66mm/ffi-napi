@@ -1,5 +1,5 @@
 {
-  "name": "@lwahonen/ffi-napi",
+  "name": "@breush/ffi-napi",
   "version": "4.0.12",
   "license": "MIT",
   "author": "Anna Henningsen <anna@addaleax.net>",
@@ -20,7 +20,7 @@
     "napi",
     "stable"
   ],
-  "homepage": "http://github.com/node-ffi-napi/node-ffi-napi",
+  "homepage": "http://github.com/Breush/ffi-napi",
   "engines": {
     "node": ">=12.22.12"
   },
@@ -29,7 +29,7 @@
     "debug": "^4.1.1",
     "get-uv-event-loop-napi-h": "^1.0.5",
     "node-addon-api": "^3.2.1",
-    "@lwahonen/ref-napi": "^4.0.8",
+    "@breush/ref-napi": "^4.0.8",
     "ref-struct-di": "^1.1.0",
     "node-gyp-build": "^4.5.0"
   },
@@ -47,9 +47,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/node-ffi-napi/node-ffi-napi.git"
+    "url": "http://github.com/Breush/ffi-napi.git"
   },
   "bugs": {
-    "url": "http://github.com/node-ffi-napi/node-ffi-napi/issues"
+    "url": "http://github.com/Breush/ffi-napi/issues"
   }
 }
