@@ -26,7 +26,7 @@
   },
   "main": "./lib/ffi",
   "dependencies": {
-    "@breush/ref-napi": "^4.0.8",
+    "@breush/ref-napi": "^4.0.9",
     "debug": "^4.1.1",
     "get-uv-event-loop-napi-h": "^1.0.5",
     "node-addon-api": "^3.2.1",
