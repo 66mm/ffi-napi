@@ -1,6 +1,6 @@
 {
   "name": "@breush/ffi-napi",
-  "version": "4.0.12",
+  "version": "4.0.13",
   "license": "MIT",
   "author": "Anna Henningsen <anna@addaleax.net>",
   "contributors": [
